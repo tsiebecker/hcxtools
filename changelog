@@ -7,7 +7,7 @@ hcxpcaptool: added new option -X
 
 added new tool: hcxwltool
 while hcxpsktool is designed to run on hcxpcaptool -o and -z output,
-hcxwltool is designed to run on hcapcaptool -E, -I and -U output
+hcxwltool is designed to run on hcxpcaptool -E, -I and -U output
 
 $ hcxwltool -h
 hcxwltool 5.1.1 (C) 2019 ZeroBeat
